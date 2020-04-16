@@ -1,1 +1,2 @@
 export const SET_FAV_MOVIES = 'SET_FAV_MOVIES'
+export const SET_LIST_MOVIES = 'SET_LIST_MOVIES'
